@@ -1,0 +1,3 @@
+#CVE            ignore_until
+immer:          FOREVER
+handlebars:     FOREVER
